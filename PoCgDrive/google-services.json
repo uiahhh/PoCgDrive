@@ -1,0 +1,13 @@
+{
+  "web": {
+    "client_id": "892288556023-san09ldban62h25pka44n94g9p4jl7e9.apps.googleusercontent.com",
+    "project_id": "pocgdrive-1613241885596",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "iqn1-lhll6sLdq3fZG71RbpT",
+    "javascript_origins": [
+      "http://localhost:8000"
+    ]
+  }
+}
